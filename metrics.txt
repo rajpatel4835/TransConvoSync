@@ -1,0 +1,30 @@
+Class-specific metrics:
+Acne - Accuracy: 0.8571428571428571
+Acne - Precision: 1.0
+Acne - Recall: 0.8571428571428571
+Acne - F1-Score: 0.923076923076923
+Acne - ROC-AUC: 0.06666666666666667
+Bullous Disease - Accuracy: 0.5
+Bullous Disease - Precision: 1.0
+Bullous Disease - Recall: 0.5
+Bullous Disease - F1-Score: 0.6666666666666666
+Bullous Disease - ROC-AUC: 0.46875
+Eczema - Accuracy: 1.0
+Eczema - Precision: 0.5555555555555556
+Eczema - Recall: 1.0
+Eczema - F1-Score: 0.7142857142857143
+Eczema - ROC-AUC: 0.6470588235294118
+Utricaria Hives - Accuracy: 1.0
+Utricaria Hives - Precision: 1.0
+Utricaria Hives - Recall: 1.0
+Utricaria Hives - F1-Score: 1.0
+Utricaria Hives - ROC-AUC: 1.0
+Confusion Matrix:
+6 0 1 0
+0 3 3 0
+0 0 5 0
+0 0 0 4
+Accuracy: 0.8181818181818182
+Precision: 0.8888888888888888
+Recall: 0.8392857142857143
+F1-Score: 0.826007326007326
